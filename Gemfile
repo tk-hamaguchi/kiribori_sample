@@ -57,3 +57,4 @@ gem 'dotenv-rails'
 
 gem 'redis'
 gem 'hiredis'
+gem 'haml-rails'
