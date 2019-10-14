@@ -82,3 +82,7 @@ group :development, :test do
   gem 'faker', require: false
   gem 'faker-japanese', require: false
 end
+
+group :development, :test do
+  gem 'annotate'
+end
