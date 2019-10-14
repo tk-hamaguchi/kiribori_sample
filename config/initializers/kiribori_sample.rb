@@ -1,0 +1,1 @@
+require 'kiribori_sample'
