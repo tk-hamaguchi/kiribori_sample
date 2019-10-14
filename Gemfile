@@ -54,3 +54,6 @@ end
 gem 'config'
 
 gem 'dotenv-rails'
+
+gem 'redis'
+gem 'hiredis'
